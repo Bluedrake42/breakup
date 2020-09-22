@@ -8,5 +8,15 @@
 			"Name": "HoudiniEngine",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"HoloLens",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
